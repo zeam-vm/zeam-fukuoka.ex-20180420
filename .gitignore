@@ -6,3 +6,4 @@ dist
 /index.html
 build
 yarn.lock
+.DS_Store
